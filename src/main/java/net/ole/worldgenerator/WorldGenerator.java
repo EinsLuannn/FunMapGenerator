@@ -16,7 +16,7 @@ public final class WorldGenerator extends JavaPlugin {
         Bukkit.getConsoleSender().sendMessage(" ");
         Bukkit.getConsoleSender().sendMessage("§aCustom Map Generator loaded");
         Bukkit.getConsoleSender().sendMessage(" §7developed by §aJavaInterface");
-        Bukkit.getConsoleSender().sendMessage(" ");
+        Bukkit.getConsoleSender().sendMessage("  ");
     }
 
     @Override
